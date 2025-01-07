@@ -15,7 +15,7 @@
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=GitHub&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/GitHub-1572B6?style=flat&logo=GitHub&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
