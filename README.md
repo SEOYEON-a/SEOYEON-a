@@ -9,7 +9,8 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
     문제를 끝까지 파고드는 꼼꼼함, 그리고 꾸준한 학습과 기록 습관이 저의 강점입니다.
     <br><br>
-    6개월간의 집중적인 교육 과정 동안 매일 학습한 내용을 Notion에 정리하며 체계적인 학습 습관을 길렀고,
+    6개월간의 집중적인 교육 과정 동안 매일 학습한 내용을 Notion에 정리하며 체계적인 학습 습관을 길렀고, 
+    <br><br>
     Jenkins·Docker·AWS를 활용한 CI/CD 프로젝트를 통해 실무에 가까운 개발과 배포 환경을 경험했습니다.
     <br><br>
     </div>
