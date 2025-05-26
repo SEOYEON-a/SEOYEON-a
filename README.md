@@ -3,8 +3,15 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb3d7&height=120&text=Hi%20I'm%20Seo%20Yeon!&animation=fadeIn&fontColor=e63dcf&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 실무경험이 있는 꼼꼼하고 성실한 개발자 이서연입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 계속 달려나가는 개발자입니다. 다양한 프로그래밍 언어로 개발한 경험을 통해 2번의 프로젝트를 잘 끝낼 수 있었습니다. </li>꾸준함과 성실함이 제가 가진 장점입니다. </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
+    꼼꼼함과 성실함으로 성장하는 백엔드 개발자 이서연입니다.
+    </h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+    문제를 끝까지 파고드는 꼼꼼함, 그리고 꾸준한 학습과 기록 습관이 저의 강점입니다.
+    <br><br>
+    6개월간의 집중적인 교육 과정 동안 매일 학습한 내용을 Notion에 정리하며 체계적인 학습 습관을 길렀고,
+    Jenkins·Docker·AWS를 활용한 CI/CD 프로젝트를 통해 실무에 가까운 개발과 배포 환경을 경험했습니다.
+    <br><br>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
