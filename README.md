@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
-    꼼꼼함과 성실함으로 꾸준히 달려나가는 백엔드 개발자 이서연입니다.
+    꼼꼼함과 성실함으로 꾸준히 달려나가는 개발자 이서연입니다.
     </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
     문제를 끝까지 파고드는 꼼꼼함, 그리고 꾸준한 학습과 기록 습관이 저의 강점입니다.
